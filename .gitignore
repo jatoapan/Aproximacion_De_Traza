@@ -1,30 +1,3 @@
 # Ignorar los directorios generados por PyInstaller
 /dist/
 /build/
-
-# Ignorar archivos generados por PyInstaller (como el ejecutable .exe y .pkg)
-*.exe
-*.pkg
-
-# Ignorar entornos virtuales
-/.venv/
-/env/
-/venv/
-
-# Ignorar archivos de configuración de editores como PyCharm y VSCode
-.idea/
-/.vscode/
-
-# Ignorar archivos de Conda
-*.conda
-*.tar.bz2
-
-# Ignorar archivos de logs
-*.log
-
-# Ignorar archivos temporales del sistema operativo
-Thumbs.db
-Desktop.ini
-
-# Ignorar archivos de backups o temporales
-*~
